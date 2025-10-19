@@ -1,12 +1,3 @@
-### 📝 **Descrição (até 350 caracteres)**
-
-> Template profissional para projetos Python, com planejamento estruturado, fluxo de trabalho padronizado, boas práticas de desenvolvimento, integração com GitHub, Copilot e mentoria via ChatGPT. Ideal para aprendizado, organização e consistência técnica.
-
----
-
-### 📘 **README.md**
-
-```markdown
 # 🧭 Template de Projeto — Python Profissional
 
 Este repositório serve como **modelo base** para iniciar novos projetos Python com foco em qualidade, organização e aprendizado contínuo.  
@@ -28,8 +19,8 @@ Fornecer um ponto de partida sólido e profissional para projetos Python — sej
 ---
 
 ## 🧩 Estrutura do Template
-```
 
+```
 .
 ├── docs/
 │   ├── FLUXO_DE_TRABALHO.md
@@ -40,8 +31,7 @@ Fornecer um ponto de partida sólido e profissional para projetos Python — sej
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
-````
+```
 
 ---
 
@@ -62,7 +52,8 @@ Fornecer um ponto de partida sólido e profissional para projetos Python — sej
 1. **Crie um novo repositório** no GitHub usando este modelo.  
 2. **Atualize `docs/planejamento.md`** com as informações do novo projeto.  
 3. **Configure seu ambiente virtual**:
-   ```bash
+
+```bash
    python -m venv .venv
    source .venv/bin/activate
    pip install -r requirements.txt
