@@ -1,4 +1,4 @@
-# 📅 Planejamento do Projeto
+# 📅 Planejamento do Trabalho
 
 > Documento de acompanhamento do progresso técnico e das entregas.  
 > Baseado em metodologias ágeis adaptadas para trabalho individual, com foco em **constância**, **qualidade** e **aprendizado contínuo**.
