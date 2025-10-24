@@ -180,7 +180,13 @@ git remote add origin https://github.com/<usuario>/<projeto>.git
 
 ---
 
-## 🧠 10. Considerações Finais
+## 🌀 10. Metodologia de Trabalho
+
+* Este projeto segue princípios de metodologias ágeis adaptadas para desenvolvimento individual, inspiradas no Scrum e Kanban.
+* O foco está na entrega incremental, documentação contínua e melhoria progressiva dos processos e do código.
+* As tarefas são organizadas em sprints curtos com revisões ao final de cada ciclo.
+
+## 🧠 11. Considerações Finais
 
 * Este documento deve ser mantido **vivo**: atualize a cada mudança estrutural.
 * Use-o como **base comparativa** entre o que foi planejado e o que foi realmente implementado.
